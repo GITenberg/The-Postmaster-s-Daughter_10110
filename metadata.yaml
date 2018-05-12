@@ -1,5 +1,8 @@
 _repo: The-Postmaster-s-Daughter_10110
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tracy, Louis
@@ -13,6 +16,8 @@ description: Louis Tracy (1863 - 1928) was a British journalist, and prolific wr
   of fiction. He used the pseudonyms Gordon Holmes and Robert Fraser, which were at
   times shared with M.P. Shiel, a collaborator from the start of the twentieth century.
   Tracy is noted for his contribution to the mystery and romance genres.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10110#The-Postmaster-s-Daughter
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
